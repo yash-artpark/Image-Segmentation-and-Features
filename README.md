@@ -1,4 +1,4 @@
-# Segmentation-FeatureTracking 
+# Image Segmentation and Analysis of Features
 This is a part of the work done as a Research Intern at ArtPark in Robot Perception
 
 This repository mainly contains the documentation of observations and results obtained on testing different state-of-the-art algorithms (and also the code) in the following two subtopics:
