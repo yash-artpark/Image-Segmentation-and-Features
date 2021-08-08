@@ -7,4 +7,4 @@ This repository mainly contains the documentation of observations and results ob
 2. Feature Extraction, Matching and Tracking
 
 
-P.S. - Most of the code repos in the deep learning based models are cloned from their official implementations cited at www.paperswithcode.com
+P.S. - Most of the code repos in the deep learning based models are cloned from their official implementations as cited at www.paperswithcode.com
